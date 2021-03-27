@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-gsap-nav/static/css/main.87a8b171.chunk.css",
-    "main.js": "/react-gsap-nav/static/js/main.1ed0c779.chunk.js",
-    "main.js.map": "/react-gsap-nav/static/js/main.1ed0c779.chunk.js.map",
+    "main.js": "/react-gsap-nav/static/js/main.c2890eed.chunk.js",
+    "main.js.map": "/react-gsap-nav/static/js/main.c2890eed.chunk.js.map",
     "runtime-main.js": "/react-gsap-nav/static/js/runtime-main.7847122e.js",
     "runtime-main.js.map": "/react-gsap-nav/static/js/runtime-main.7847122e.js.map",
     "static/js/2.79498adc.chunk.js": "/react-gsap-nav/static/js/2.79498adc.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.7847122e.js",
     "static/js/2.79498adc.chunk.js",
     "static/css/main.87a8b171.chunk.css",
-    "static/js/main.1ed0c779.chunk.js"
+    "static/js/main.c2890eed.chunk.js"
   ]
 }
