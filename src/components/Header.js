@@ -52,7 +52,7 @@ function Header({ history }) {
         <div className="wrapper">
           <div className="inner-header">
             <div className="logo">
-              <Link to="/">HAMBGR.</Link>
+              <Link to="/home">HAMBGR.</Link>
             </div>
             <div className="menu">
               <button disabled={disabled} onClick={handleMenu}>
