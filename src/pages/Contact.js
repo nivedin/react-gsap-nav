@@ -1,7 +1,7 @@
 import React from "react";
 
 function Contact() {
-  return <p>Feel free to reach us.</p>;
+  return <p style={{ marginTop: "100px" }}>Feel free to reach us.</p>;
 }
 
 export default Contact;
