@@ -196,7 +196,7 @@ function Hamburger({ state }) {
                 </p>
               </div>
               <div className="locations">
-                Locations:
+                <span className="locationText">Locations:</span>
                 {cities.map((el) => (
                   <span
                     key={el.name}
