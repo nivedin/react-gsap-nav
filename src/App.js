@@ -16,10 +16,10 @@ function App() {
             <div className="home">
               <Switch>
                 <Route exact path="/" component={Home} />
-                <Route exact path="/home" component={Home} />
-                <Route exact path="/oppurtunities" component={Opportunities} />
-                <Route exact path="/solutions" component={Solutions} />
-                <Route exact path="/contact-us" component={Contact} />
+                {/* <Route exact path="/home" component={Home} /> */}
+                <Route path="/oppurtunities" component={Opportunities} />
+                <Route path="/solutions" component={Solutions} />
+                <Route path="/contact-us" component={Contact} />
               </Switch>
             </div>
           </div>
