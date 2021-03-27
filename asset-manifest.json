@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gsap-nav/static/css/main.87a8b171.chunk.css",
+    "main.js": "/react-gsap-nav/static/js/main.1ed0c779.chunk.js",
+    "main.js.map": "/react-gsap-nav/static/js/main.1ed0c779.chunk.js.map",
+    "runtime-main.js": "/react-gsap-nav/static/js/runtime-main.7847122e.js",
+    "runtime-main.js.map": "/react-gsap-nav/static/js/runtime-main.7847122e.js.map",
+    "static/js/2.79498adc.chunk.js": "/react-gsap-nav/static/js/2.79498adc.chunk.js",
+    "static/js/2.79498adc.chunk.js.map": "/react-gsap-nav/static/js/2.79498adc.chunk.js.map",
+    "static/js/3.355f7201.chunk.js": "/react-gsap-nav/static/js/3.355f7201.chunk.js",
+    "static/js/3.355f7201.chunk.js.map": "/react-gsap-nav/static/js/3.355f7201.chunk.js.map",
+    "index.html": "/react-gsap-nav/index.html",
+    "static/css/main.87a8b171.chunk.css.map": "/react-gsap-nav/static/css/main.87a8b171.chunk.css.map",
+    "static/js/2.79498adc.chunk.js.LICENSE.txt": "/react-gsap-nav/static/js/2.79498adc.chunk.js.LICENSE.txt",
+    "static/media/austin.890f7d26.webp": "/react-gsap-nav/static/media/austin.890f7d26.webp",
+    "static/media/beijing.28d52862.webp": "/react-gsap-nav/static/media/beijing.28d52862.webp",
+    "static/media/dallas.515fa077.webp": "/react-gsap-nav/static/media/dallas.515fa077.webp",
+    "static/media/newyork.824150ab.webp": "/react-gsap-nav/static/media/newyork.824150ab.webp",
+    "static/media/sanfrancisco.08608ad9.webp": "/react-gsap-nav/static/media/sanfrancisco.08608ad9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7847122e.js",
+    "static/js/2.79498adc.chunk.js",
+    "static/css/main.87a8b171.chunk.css",
+    "static/js/main.1ed0c779.chunk.js"
+  ]
+}
